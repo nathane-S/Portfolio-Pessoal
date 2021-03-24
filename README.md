@@ -1,2 +1,2 @@
 # Portfolio-Pessoal
-Pagina com Currículo pessoal contendo: informações para contato, cursos, formações, experiências, etc. Landing Page em HTML e CSS
+Pagina com Currículo pessoal contendo: informações para contato, cursos, formação, experiências , etc. LP com layout em HTML e CSS.
